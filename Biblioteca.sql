@@ -1,3 +1,7 @@
+create schema biblioteca;
+
+use biblioteca;
+
 -- Tabla Sede
 create table if not exists sede (
 id_sede int primary key auto_increment not null,
