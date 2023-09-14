@@ -1,0 +1,9 @@
+id_biblioteca;id_servicio;categoria;genero;anio;editorial
+C1;COM1;Comics;Terror;1999;edicionesferrero
+C2;COM2;Comics;Terror;1999;edicionesferrero
+C3;COM3;Comics;Terror;1999;edicionesferrero
+L1;COM4;Libros;Suspenso;1999;edicionesferrero
+L2;ALQ1;Libros;Suspenso;1999;edicionesferrero
+L3;ALQ2;Libros;Romantica;1999;edicionesferrero
+M1;ALQ3;Manga;Thriller;1999;edicionesferrero
+M2;ALQ4;Manga;Accion;1999;edicionesferrero

@@ -1,0 +1,9 @@
+id_servicio;id_cliente;id_empleado;servicio;fecha;comentarios
+COM1;42123456;40123456;Compra;2023-09-04;sin comentarios
+COM2;42123457;40123457;Compra;2023-09-04;sin comentarios
+COM3;42123458;40123458;Compra;2023-09-04;sin comentarios
+COM4;42123459;40123459;Compra;2023-09-04;sin comentarios
+ALQ1;42123460;40123460;Alquiler;2023-09-04;Devolver el 04/10/2023
+ALQ2;42123461;40123461;Alquiler;2023-09-04;Devolver el 04/10/2023
+ALQ3;42123462;40123462;Alquiler;2023-09-04;Devolver el 04/10/2023
+ALQ4;42123463;40123463;Alquiler;2023-09-04;Devolver el 04/10/2023

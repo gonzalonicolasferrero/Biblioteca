@@ -1,0 +1,9 @@
+id_cliente;id_servicio;nombre;apellido;direccion;email;telefono
+42123456;COM1;Peter;Parker;Campos 1234;pparker@gmail.com;1134567890
+42123457;COM2;Thor;Odinson;Campos 1235;todinson@gmail.com;1134567891
+42123458;COM3;Dominic;Toretto;Campos 1236;dtoretto@gmail.com;1134567892
+42123459;COM4;Brian;Oconner;Campos 1237;doconner@gmail.com;1134567893
+42123460;ALQ1;Wade;Wilson;Campos 1238;wwilson@gmail.com;1134567894
+42123461;ALQ2;Bruce;Wayne;Campos 1239;bwayne@gmail.com;1134567895
+42123462;ALQ3;Tony;Stark;Campos 1240;tstark@gmail.com;1134567896
+42123463;ALQ4;Marshall;Matters;Campos 1241;mmatters@gmail.com;1134567897

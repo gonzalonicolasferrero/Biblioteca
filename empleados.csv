@@ -1,0 +1,9 @@
+id_empleado;id_sede;nombre;apellido;email;telefono;puesto
+40123456;1;Roman;Riquelme;rriquelme@biblioteca.com;112345678;Recepcionista
+40123457;2;Guillermo;Schelotto;gschelotto@biblioteca.com;112345679;Bibliotecario
+40123458;3;Gustavo;Schelotto;guschelotto@biblioteca.com;112345680;Consejero
+40123459;4;Martin;Palermo;mpalermo@biblioteca.com;112345681;Recepcionista
+40123460;5;Carlos;Tevez;ctevez@biblioteca.com;112345682;Consejero
+40123461;1;Diego;Maradona;dmaradon@biblioteca.com;112345683;Bibliotecario
+40123462;2;Lionel;Messi;lmessi@biblioteca.com;112345684;Administrador
+40123463;3;Cristiano;Ronaldo;cronaldo@biblioteca.com;112345685;Bibliotecario

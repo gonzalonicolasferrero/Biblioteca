@@ -1,0 +1,4 @@
+isbn;id_biblioteca;cantidad_copias;titulo;autor;fecha_publicacion
+112345;C1;4;Marvel Zombies 1;OvniPress;1999-05-10
+112346;C2;3;Marvel Zombies 2;OvniPress;1999-05-11
+112347;C3;6;Marvel Zombies 3;OvniPress;1999-05-12
