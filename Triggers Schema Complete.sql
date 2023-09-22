@@ -14,7 +14,7 @@ horacambio time,
 usercambio varchar(30));
 /*
 	insert into empleados_log_i values (
-	new.id_empleado, new.nombre, new.apellido, new.email, new.telefono, new.puesto, curdate(), curtime(), user());
+	new.id_empleado, new.id_sede, new.nombre, new.apellido, new.email, new.telefono, new.puesto, curdate(), curtime(), user());
 */
 -- insert into empleados values (40123464, 1, 'Dibu', 'Martinez', 'dmartinez@biblioteca.com', 112345686, 'Bibliotecario');
 -- select * from empleados_log_i
