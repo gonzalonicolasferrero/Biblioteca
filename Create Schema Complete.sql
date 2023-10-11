@@ -81,7 +81,7 @@ primary key(isbn));
 	ADD FOREIGN KEY (id_sede) references sede (id_sede);
 	ALTER TABLE servicio
 	ADD FOREIGN KEY (id_cliente) references clientes (id_cliente);
-    ALTER TABLE servicio
+    	ALTER TABLE servicio
 	ADD FOREIGN KEY (id_empleado) references empleados (id_empleado);
 	ALTER TABLE biblioteca
 	ADD FOREIGN KEY (id_servicio) references servicio (id_servicio);
